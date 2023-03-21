@@ -2,6 +2,11 @@
 
 - Removed support for depecrated `extraAriaContext` (please use `ariaLabelBuilder` instead)
 
+## >= 8.1.5
+
+- Add default ARIA label for pagination break link
+- Add prop to PaginationBoxView to allow user customization
+
 ## >= 8.1.4
 
 - Add an ARIA role [`navigation`](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/navigation_role) to main `<ul>` tag
